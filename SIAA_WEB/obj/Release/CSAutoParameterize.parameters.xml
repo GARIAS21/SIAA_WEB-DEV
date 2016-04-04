@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApplicationServices-Web.config Connection String" description="ApplicationServices Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:atencion-ciudadana.database.windows.net,1433;Initial Catalog=atencion_cuidadana;User ID=administrador@atencion-ciudadana;Password=P@$$w0rd" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Wilmark\.Garcia\\Dropbox\ \(Anterior\)\\Dropbox\\SIAA_WEB\\SIAA_WEB\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+</parameters>

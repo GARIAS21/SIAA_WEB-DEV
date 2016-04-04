@@ -1,0 +1,99 @@
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\ApplicationInsights.config
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\csc.exe
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\vbc.exe
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\VBCSCompiler.exe
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.dll.config
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.pdb
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Web.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.ApplicationInsights.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Web.xml
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.ApplicationInsights.xml
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.csprojResolveAssemblyReference.cache
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.dll
+c:\users\wilmark.garcia\documents\visual studio 2015\Projects\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.pdb
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\ApplicationInsights.config
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\csc.exe
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\vbc.exe
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.dll.config
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.pdb
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Web.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Web.xml
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.csprojResolveAssemblyReference.cache
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.dll
+C:\Users\wilmark\Dropbox\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.pdb
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\ApplicationInsights.config
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\csc.exe
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\vbc.exe
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.dll.config
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\SIAA_WEB.pdb
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.dll
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\obj\Debug\SIAA_WEB.pdb
+C:\Users\Wilmark.Garcia\Dropbox (Anterior)\Dropbox\SIAA_WEB\SIAA_WEB\bin\netlib.dll

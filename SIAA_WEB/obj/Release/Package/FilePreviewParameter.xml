@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SIAA-DEV" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Wilmark\.Garcia\\Dropbox\ \(Anterior\)\\Dropbox\\SIAA_WEB\\SIAA_WEB\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Wilmark\.Garcia\\Dropbox\ \(Anterior\)\\Dropbox\\SIAA_WEB\\SIAA_WEB\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ApplicationServices-Web.config Connection String" description="" value="Data Source=tcp:atencion-ciudadana.database.windows.net,1433;Initial Catalog=atencion_cuidadana;User ID=administrador@atencion-ciudadana;Password=P@$$w0rd" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Wilmark\.Garcia\\Dropbox\ \(Anterior\)\\Dropbox\\SIAA_WEB\\SIAA_WEB\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+</parameters>
